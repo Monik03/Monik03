@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 -->
 
 
-## Hi there 👋, I'm MONIK RAMJIYANI👩🏻‍💻
+## Hi there, I'm MONIK RAMJIYANI.
 I'm a student, pursuing Bachelor in Computer Engineering.
 
 Student at International Institute of Information Technology, Pune.
