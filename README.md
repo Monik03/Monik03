@@ -7,19 +7,15 @@ Here are some ideas to get you started:
 
 
 ## Hi there, I'm MONIK RAMJIYANI.
-I'm a student, pursuing Bachelor in Computer Engineering.
-
-Student at International Institute of Information Technology, Pune.
+I'm a student, pursuing Bachelor in Computer Engineering at International Institute of Information Technology, Pune.
 
 - 📫 How to reach me: moniknavin356@gmail.com
 
-![Profile views](https://gpvc.arturio.dev/Monik03)  
-
-
+<!--[Profile views](https://gpvc.arturio.dev/Monik03)  -->
 
 <h3 align="left">Tools and languages: </h3>
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,py,)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,php,c,cpp,py,java,jquery,bootstrap,flask)
 
 ### 📊 GitHub Stats:
 
