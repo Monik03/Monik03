@@ -28,5 +28,3 @@ I'm a student, pursuing Bachelor in Computer Engineering at International Instit
 <img width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=Monik03&theme=gotham&hide_border=false" />
 
 </div>
-
-[![AB'z github activity graph](https://activity-graph.herokuapp.com/graph?username=Monik03&theme=gotham)](https://github.com/Monik03)
